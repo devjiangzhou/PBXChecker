@@ -1,0 +1,3 @@
+# PBXChecker
+
+应用在生产Target和开发Target不一致的情况下，用来检查引用的文件不一致的情况下
